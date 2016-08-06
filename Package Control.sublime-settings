@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "http://localhost:1080",
+	"https_proxy": "http://localhost:1080",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"Emmet",
+		"IMESupport",
+		"Markdown Preview",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements"
+	]
+}
