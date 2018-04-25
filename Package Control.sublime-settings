@@ -1,7 +1,10 @@
 {
 	"bootstrapped": true,
-	"http_proxy": "http://localhost:1080",
-	"https_proxy": "http://localhost:1080",
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://web.archive.org/web/20150905194312/https://packagecontrol.io/channel_v3.json"
+	],
 	"in_process_packages":
 	[
 	],
